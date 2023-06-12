@@ -1,0 +1,6 @@
+1. Find emails dataset
+2. Recreate same variables as in the source study using Python (get word frequencies from textual data etc.)
+3. Check validity of the variables (maybe add new ones, that are sensible)
+4. Find stats packages that can be used to run same models
+5. Recreate models using the same variables / updated variables
+6. Write final report
