@@ -4,3 +4,12 @@
 4. Find stats packages that can be used to run same models
 5. Recreate models using the same variables / updated variables
 6. Write final report
+
+
+Further steps:
+
+1) For initial dataset but translated in python perform Hosmer Lemershow and Osius-Rojek tests + some Rsquared such as McKelvey - Zavoina, count, adjusted count
+2) Copy the codes to the new dataset with old keywords
+3) Copy the codes to the new dataset with new keywords
+4) Write the analysis and comparison (report)
+5) Make codes looks good and comment them
