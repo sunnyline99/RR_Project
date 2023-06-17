@@ -1,1 +1,1 @@
-https://www.kaggle.com/datasets/venky73/spam-mails-dataset
+https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
