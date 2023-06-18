@@ -5,6 +5,7 @@
 ### Dawid Szyszko-Celinski
 
 ![alt text](https://www.netia.pl/Netia/media/blog/spam-co-to-jest.png)
+
 Source: https://www.netia.pl/Netia/media/blog/spam-co-to-jest.png
 
 ## Aim of the initial project
