@@ -4,6 +4,8 @@
 ### Paulina Sereikyte
 ### Dawid Szyszko-Celinski
 
+![alt text]([http://url/to/img.png](https://www.netia.pl/Netia/media/blog/spam-co-to-jest.png))
+
 ## Aim of the initial project
 
 The main aim of the project is to reproduce the econometric project submited for "Advanced Econometric" subject. The initial project idea was to create logit or probit econometric model in RStudio that would predic if the email is spam. The dataset used for the initial analysis mainly consited of certain keywords frequenies in the text and additional metrics such as number of words in the email.
