@@ -9,7 +9,19 @@
 Further steps:
 
 1) For initial dataset but translated in python perform Hosmer Lemershow and Osius-Rojek tests + some Rsquared such as McKelvey - Zavoina, count, adjusted count
+
+Osius-Rojek and marginal effects were not reporduced
+
 2) Copy the codes to the new dataset with old keywords
 3) Copy the codes to the new dataset with new keywords
+
+
+
 4) Write the analysis and comparison (report)
+
+
 5) Make codes looks good and comment them
+
+Add text with the sources and chat GPT
+Write a readme
+
