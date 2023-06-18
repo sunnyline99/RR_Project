@@ -50,4 +50,6 @@ We were able to replicate the analysis, which was originally designed in R, in P
 
 Applying the same methodologies to a new dataset were more challenging, as the initial analysis was based on the word frequencies of certain words in the text. At first, the analysis was conducted based on the most common words and characters present in the new dataset. Then the models were replicated by calculating the frequencies of the words from the initial word list. 
 While it was still possible to construct the models, they were generally less efficient in detecting spam. One of the main reasons was the much lower frequencies of the selected and previously used words in the new text. This resulted in very low variances within the variable which then had to be removed to be included in the models.
-This issue was more prevalent when trying to 
+This issue was more prevalent when trying to replicate the analysis using the old word list - many of the words were highly specific to the initial dataset and thus were not found in the new data. This resulted in a big reduction in the number of variables and possible interactions, therefore the analysis could not be replicated exactly.
+
+Overall, this excercise has proven what has been discussed in the initial research report- while econometric analysis performed well or on par with more complex models, it was determined to be highly specific to the data it was built on. As spam detection is a fast evolving subject that would need frequent updating and flexibility, other models, such as machine learning, are preferable.
