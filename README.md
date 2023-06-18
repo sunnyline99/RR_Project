@@ -43,3 +43,11 @@ The whole analysis can be found in the "Updated Research" file:
 3) "new_data_old_words.csv" dataset that will be used to analyse old keywords on a new dataset
 4) "Technical" folder that contains all codes that were used as technical parts to create the main file "Combined research"
 5) "Link to the dataset" - a text file containing a link to the new dataset
+
+## General results
+
+We were able to replicate the analysis, which was originally designed in R, in Python. Some adjustments had to be made to create new formulas and utilise a different set of packages, however the results generated in Python were the same as the results generated in R when using the same dataset.
+
+Applying the same methodologies to a new dataset were more challenging, as the initial analysis was based on the word frequencies of certain words in the text. At first, the analysis was conducted based on the most common words and characters present in the new dataset. Then the models were replicated by calculating the frequencies of the words from the initial word list. 
+While it was still possible to construct the models, they were generally less efficient in detecting spam. One of the main reasons was the much lower frequencies of the selected and previously used words in the new text. This resulted in very low variances within the variable which then had to be removed to be included in the models.
+This issue was more prevalent when trying to 
