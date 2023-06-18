@@ -4,7 +4,7 @@
 ### Paulina Sereikyte
 ### Dawid Szyszko-Celinski
 
-![alt text]([http://url/to/img.png](https://www.netia.pl/Netia/media/blog/spam-co-to-jest.png))
+![alt text](https://www.netia.pl/Netia/media/blog/spam-co-to-jest.png)
 
 ## Aim of the initial project
 
