@@ -53,3 +53,7 @@ While it was still possible to construct the models, they were generally less ef
 This issue was more prevalent when trying to replicate the analysis using the old word list - many of the words were highly specific to the initial dataset and thus were not found in the new data. This resulted in a big reduction in the number of variables and possible interactions, therefore the analysis could not be replicated exactly.
 
 Overall, this excercise has proven what has been discussed in the initial research report- while econometric analysis performed well or on par with more complex models, it was determined to be highly specific to the data it was built on. As spam detection is a fast evolving subject that would need frequent updating and flexibility, other models, such as machine learning, are preferable.
+
+## Disclaimer: AI Tools were used to reproduce the research
+
+Our translation from R to Python was aided by the use of ChatGPT. The process involved an initial machine translation, after which we have fixed mistakes in subsequent iterations. ChatGPT provided also an alternative to Stack Overflow while searching for solutions to bugs we encountered. While using ChatGPT we have used queries that contained R code and the error messages.
