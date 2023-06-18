@@ -38,3 +38,4 @@ The whole analysis can be found in the "Updated Research" file:
 2) "new_data_new_words.csv" dataset that will be used to analyse new keywords on new dataset
 3) "new_data_old_words.csv" dataset that will be used to analyse old keywords on new dataset
 4) "Technical" folder that contains all codes that were used as a technical parts to create main file "Combined research"
+5) "Link to the dataset" - text file containing link to the new dataset

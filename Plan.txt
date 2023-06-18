@@ -10,7 +10,7 @@ Further steps:
 
 1) For initial dataset but translated in python perform Hosmer Lemershow and Osius-Rojek tests + some Rsquared such as McKelvey - Zavoina, count, adjusted count
 
-Osius-Rojek and marginal effects were not reporduced
+Osius-Rojek were not reporduced
 
 2) Copy the codes to the new dataset with old keywords
 3) Copy the codes to the new dataset with new keywords
